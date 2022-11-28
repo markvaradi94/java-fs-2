@@ -1,0 +1,45 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/MarkVaradi/studyspace/courses/fasttrackit/java-full-stack/course2/course-code/course2/src/main/java;C:/Users/MarkVaradi/studyspace/courses/fasttrackit/java-full-stack/course2/course-code/course2/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/MarkVaradi/studyspace/courses/fasttrackit/java-full-stack/course2/course-code/course2/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'course2 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'course2 1.0-SNAPSHOT API'
+org.example
+'C:/Users/MarkVaradi/studyspace/courses/fasttrackit/java-full-stack/course2/course-code/course2/src/main/java/org/example/Main.java'
+C:\Users\MarkVaradi\studyspace\courses\fasttrackit\java-full-stack\course2\course-code\course2\src\main\java = 1666072796507
+C:\Users\MarkVaradi\studyspace\courses\fasttrackit\java-full-stack\course2\course-code\course2\target\generated-sources\annotations = 1666074661801
+C:\Users\MarkVaradi\studyspace\courses\fasttrackit\java-full-stack\course2\course-code\course2\target\apidocs\allclasses-index.html = 1666074664295
+C:\Users\MarkVaradi\studyspace\courses\fasttrackit\java-full-stack\course2\course-code\course2\target\apidocs\allpackages-index.html = 1666074664299
+C:\Users\MarkVaradi\studyspace\courses\fasttrackit\java-full-stack\course2\course-code\course2\target\apidocs\element-list = 1666074664253
+C:\Users\MarkVaradi\studyspace\courses\fasttrackit\java-full-stack\course2\course-code\course2\target\apidocs\help-doc.html = 1666074664321
+C:\Users\MarkVaradi\studyspace\courses\fasttrackit\java-full-stack\course2\course-code\course2\target\apidocs\index-all.html = 1666074664313
+C:\Users\MarkVaradi\studyspace\courses\fasttrackit\java-full-stack\course2\course-code\course2\target\apidocs\index.html = 1666074664314
+C:\Users\MarkVaradi\studyspace\courses\fasttrackit\java-full-stack\course2\course-code\course2\target\apidocs\jquery-ui.overrides.css = 1666074664362
+C:\Users\MarkVaradi\studyspace\courses\fasttrackit\java-full-stack\course2\course-code\course2\target\apidocs\member-search-index.js = 1666074664305
+C:\Users\MarkVaradi\studyspace\courses\fasttrackit\java-full-stack\course2\course-code\course2\target\apidocs\module-search-index.js = 1666074664300
+C:\Users\MarkVaradi\studyspace\courses\fasttrackit\java-full-stack\course2\course-code\course2\target\apidocs\overview-tree.html = 1666074664281
+C:\Users\MarkVaradi\studyspace\courses\fasttrackit\java-full-stack\course2\course-code\course2\target\apidocs\package-search-index.js = 1666074664302
+C:\Users\MarkVaradi\studyspace\courses\fasttrackit\java-full-stack\course2\course-code\course2\target\apidocs\script.js = 1666074664327
+C:\Users\MarkVaradi\studyspace\courses\fasttrackit\java-full-stack\course2\course-code\course2\target\apidocs\search.js = 1666074664330
+C:\Users\MarkVaradi\studyspace\courses\fasttrackit\java-full-stack\course2\course-code\course2\target\apidocs\stylesheet.css = 1666074664325
+C:\Users\MarkVaradi\studyspace\courses\fasttrackit\java-full-stack\course2\course-code\course2\target\apidocs\tag-search-index.js = 1666074664307
+C:\Users\MarkVaradi\studyspace\courses\fasttrackit\java-full-stack\course2\course-code\course2\target\apidocs\type-search-index.js = 1666074664304
